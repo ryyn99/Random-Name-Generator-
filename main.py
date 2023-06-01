@@ -26,5 +26,3 @@ for i in range(0, numnum):
 final_name = ' '.join(book_name)
 final_final= str.title(final_name)
 print(f'Your suggested book name is {final_final}')
-
-
